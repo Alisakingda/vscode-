@@ -14,10 +14,12 @@ prettier
 eslint
 tslint
 
-注意:全局安装 typescript/tslint/eslint
-yarn global add typescript
-yarn global add tslint
-yarn global add eslint
+注意:/n
+全局安装 typescript/tslint/eslint
+
+- yarn global add typescript
+- yarn global add tslint
+- yarn global add eslint
 
 ### vue 支持
 
