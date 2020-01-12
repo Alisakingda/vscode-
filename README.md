@@ -14,7 +14,8 @@ prettier
 eslint
 tslint
 
-注意:/n
+注意:
+
 全局安装 typescript/tslint/eslint
 
 - yarn global add typescript
